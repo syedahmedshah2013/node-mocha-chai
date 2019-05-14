@@ -1,0 +1,15 @@
+{
+  "name": "mochatests",
+  "version": "1.0.0",
+  "description": "Sample Node App for running Mocha-Chai Tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Syed Ahmed Shah",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
